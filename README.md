@@ -1,3 +1,3 @@
-# Python-for-Data-Science-and-AI-Coursera
+# IBM Coursera Classes
 
-Python for Data Science and AI, Coursera class excercises
+Python for Data Science and AI, Capstone, Coursera class excercises
