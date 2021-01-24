@@ -1,0 +1,314 @@
+[
+ {
+   "City": "Toronto",
+   "PostalCode": "M4E",
+   "Borough": "East Toronto",
+   "Neighbourhood": "The Beaches",
+   "Latitude": 43.6763574,
+   "Longitude": -79.2930312
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M4K",
+   "Borough": "East Toronto",
+   "Neighbourhood": "The Danforth West, Riverdale",
+   "Latitude": 43.6795571,
+   "Longitude": -79.352188
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M4L",
+   "Borough": "East Toronto",
+   "Neighbourhood": "India Bazaar, The Beaches West",
+   "Latitude": 43.6689985,
+   "Longitude": -79.3155716
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M4M",
+   "Borough": "East Toronto",
+   "Neighbourhood": "Studio District",
+   "Latitude": 43.6595255,
+   "Longitude": -79.340923
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M4N",
+   "Borough": "Central Toronto",
+   "Neighbourhood": "Lawrence Park",
+   "Latitude": 43.7280205,
+   "Longitude": -79.3887901
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M4P",
+   "Borough": "Central Toronto",
+   "Neighbourhood": "Davisville North",
+   "Latitude": 43.7127511,
+   "Longitude": -79.3901975
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M4R",
+   "Borough": "Central Toronto",
+   "Neighbourhood": "North Toronto West, Lawrence Park",
+   "Latitude": 43.7153834,
+   "Longitude": -79.4056784
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M4S",
+   "Borough": "Central Toronto",
+   "Neighbourhood": "Davisville",
+   "Latitude": 43.7043244,
+   "Longitude": -79.3887901
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M4T",
+   "Borough": "Central Toronto",
+   "Neighbourhood": "Moore Park, Summerhill East",
+   "Latitude": 43.6895743,
+   "Longitude": -79.3831599
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M4V",
+   "Borough": "Central Toronto",
+   "Neighbourhood": "Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",
+   "Latitude": 43.6864123,
+   "Longitude": -79.4000493
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M4W",
+   "Borough": "Downtown Toronto",
+   "Neighbourhood": "Rosedale",
+   "Latitude": 43.6795626,
+   "Longitude": -79.3775294
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M4X",
+   "Borough": "Downtown Toronto",
+   "Neighbourhood": "St. James Town, Cabbagetown",
+   "Latitude": 43.667967,
+   "Longitude": -79.3676753
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M4Y",
+   "Borough": "Downtown Toronto",
+   "Neighbourhood": "Church and Wellesley",
+   "Latitude": 43.6658599,
+   "Longitude": -79.3831599
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M5A",
+   "Borough": "Downtown Toronto",
+   "Neighbourhood": "Regent Park, Harbourfront",
+   "Latitude": 43.6542599,
+   "Longitude": -79.3606359
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M5B",
+   "Borough": "Downtown Toronto",
+   "Neighbourhood": "Garden District, Ryerson",
+   "Latitude": 43.6571618,
+   "Longitude": -79.3789371
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M5C",
+   "Borough": "Downtown Toronto",
+   "Neighbourhood": "St. James Town",
+   "Latitude": 43.6514939,
+   "Longitude": -79.3754179
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M5E",
+   "Borough": "Downtown Toronto",
+   "Neighbourhood": "Berczy Park",
+   "Latitude": 43.6447708,
+   "Longitude": -79.3733064
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M5G",
+   "Borough": "Downtown Toronto",
+   "Neighbourhood": "Central Bay Street",
+   "Latitude": 43.6579524,
+   "Longitude": -79.3873826
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M5H",
+   "Borough": "Downtown Toronto",
+   "Neighbourhood": "Richmond, Adelaide, King",
+   "Latitude": 43.6505712,
+   "Longitude": -79.3845675
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M5J",
+   "Borough": "Downtown Toronto",
+   "Neighbourhood": "Harbourfront East, Union Station, Toronto Islands",
+   "Latitude": 43.6408157,
+   "Longitude": -79.3817523
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M5K",
+   "Borough": "Downtown Toronto",
+   "Neighbourhood": "Toronto Dominion Centre, Design Exchange",
+   "Latitude": 43.6471768,
+   "Longitude": -79.3815764
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M5L",
+   "Borough": "Downtown Toronto",
+   "Neighbourhood": "Commerce Court, Victoria Hotel",
+   "Latitude": 43.6481985,
+   "Longitude": -79.3798169
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M5N",
+   "Borough": "Central Toronto",
+   "Neighbourhood": "Roselawn",
+   "Latitude": 43.7116948,
+   "Longitude": -79.4169356
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M5P",
+   "Borough": "Central Toronto",
+   "Neighbourhood": "Forest Hill North & West, Forest Hill Road Park",
+   "Latitude": 43.6969476,
+   "Longitude": -79.4113072
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M5R",
+   "Borough": "Central Toronto",
+   "Neighbourhood": "The Annex, North Midtown, Yorkville",
+   "Latitude": 43.6727097,
+   "Longitude": -79.4056784
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M5S",
+   "Borough": "Downtown Toronto",
+   "Neighbourhood": "University of Toronto, Harbord",
+   "Latitude": 43.6626956,
+   "Longitude": -79.4000493
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M5T",
+   "Borough": "Downtown Toronto",
+   "Neighbourhood": "Kensington Market, Chinatown, Grange Park",
+   "Latitude": 43.6532057,
+   "Longitude": -79.4000493
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M5V",
+   "Borough": "Downtown Toronto",
+   "Neighbourhood": "CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",
+   "Latitude": 43.6289467,
+   "Longitude": -79.3944199
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M5W",
+   "Borough": "Downtown Toronto",
+   "Neighbourhood": "Stn A PO Boxes",
+   "Latitude": 43.6464352,
+   "Longitude": -79.374846
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M5X",
+   "Borough": "Downtown Toronto",
+   "Neighbourhood": "First Canadian Place, Underground city",
+   "Latitude": 43.6484292,
+   "Longitude": -79.3822802
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M6G",
+   "Borough": "Downtown Toronto",
+   "Neighbourhood": "Christie",
+   "Latitude": 43.669542,
+   "Longitude": -79.4225637
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M6H",
+   "Borough": "West Toronto",
+   "Neighbourhood": "Dufferin, Dovercourt Village",
+   "Latitude": 43.6690051,
+   "Longitude": -79.4422593
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M6J",
+   "Borough": "West Toronto",
+   "Neighbourhood": "Little Portugal, Trinity",
+   "Latitude": 43.6479267,
+   "Longitude": -79.4197497
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M6K",
+   "Borough": "West Toronto",
+   "Neighbourhood": "Brockton, Parkdale Village, Exhibition Place",
+   "Latitude": 43.6368472,
+   "Longitude": -79.4281914
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M6P",
+   "Borough": "West Toronto",
+   "Neighbourhood": "High Park, The Junction South",
+   "Latitude": 43.6616083,
+   "Longitude": -79.4647633
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M6R",
+   "Borough": "West Toronto",
+   "Neighbourhood": "Parkdale, Roncesvalles",
+   "Latitude": 43.6489597,
+   "Longitude": -79.456325
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M6S",
+   "Borough": "West Toronto",
+   "Neighbourhood": "Runnymede, Swansea",
+   "Latitude": 43.6515706,
+   "Longitude": -79.4844499
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M7A",
+   "Borough": "Downtown Toronto",
+   "Neighbourhood": "Queen's Park, Ontario Provincial Government",
+   "Latitude": 43.6623015,
+   "Longitude": -79.3894938
+ },
+ {
+   "City": "Toronto",
+   "PostalCode": "M7Y",
+   "Borough": "East Toronto",
+   "Neighbourhood": "Business reply mail Processing Centre, South Central Letter Processing Plant Toronto",
+   "Latitude": 43.6627439,
+   "Longitude": -79.321558
+ }
+]
